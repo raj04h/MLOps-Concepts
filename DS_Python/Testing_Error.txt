@@ -1,0 +1,31 @@
+Testing - Validating code behavior through automated scripts to check for correctness and catch issues.
+
+Unit Test - Testing isolated chunks of code like functions or classes.
+
+Test Function - An isolated test wrapped in a Python function.
+
+Test Class - A class that contains related test methods.
+
+Assertion - Boolean checks in test code to verify values match expectations.
+
+Fixture - Shared test data or state managed by the testing framework.
+
+Plain Asserts - Basic assertion statements in Python used to verify values and results.
+
+Test Classes - Classes that contain multiple related test methods and setup/teardown logic.
+
+Parametrize - Pytest decorator to run a test multiple times with different arguments.
+
+Setup Method - Code that runs before each test method in a Test Class.
+
+Teardown Method - Code that runs after each test method in a Test Class.
+
+Test Failure Output - Pytest results containing details on which tests failed and why.
+
+PDB (Python Debugger) - Tool to debug Python code by stepping through execution.
+
+Pytest Fixtures - Shared test data/state managed by Pytest.
+
+Pytest Plugins - Extensions that provide added Pytest functionality.
+
+Pytest Options - Command line flags that control Pytest test runner behavior.

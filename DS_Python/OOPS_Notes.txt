@@ -1,0 +1,19 @@
+Class: Blueprint for creating objects. Defines attributes and methods.
+
+Instance: Object that is created from a class. Has access to class attributes and methods.
+
+Method: Function that belongs to a class. Accessed via instance or class name.
+
+Constructor: Special method that runs when an instance is created. Used to initialize attributes.
+
+Inheritance: Creating a child class from parent class. Child inherits attributes and methods.
+
+Module - A Python file containing reusable code like functions or classes
+
+Import - Retrieves modules making their contents available in current namespace
+
+Virtualenv - Self-contained directory housing isolated Python packages/dependencies
+
+Activation - Configures shell to use virtualenv's dedicated Python interpreter
+
+Pip - Python tool for installing/managing packages and dependencies
